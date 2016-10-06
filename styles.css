@@ -1,0 +1,20 @@
+body{
+	text-align: center;
+	margin-top: 80px;
+	cursor: default;
+}
+
+div {
+	margin-top: 20px;
+}
+
+#d {
+	color: gray;
+}
+
+code:hover {
+	text-decoration: underline;
+}
+
+
+
